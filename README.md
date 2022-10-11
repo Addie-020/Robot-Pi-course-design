@@ -1,4 +1,4 @@
-# Robot-Pi
+# Read me
 
 Couse disign: A simple project on robot car driven by Raspberry Pi
 
